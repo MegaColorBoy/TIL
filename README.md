@@ -9,6 +9,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Terminal](#terminal)
 - [Git](#git)
 - [JavaScript](#javascript)
+- [VIM](#vim)
 
 ---
 
@@ -19,10 +20,23 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Unzip a file]()
 - [Convert .ppk to .pem file]()
 
+---
+
 ### Git
 - [Add a remote origin]()
 - [Create a new branch]()
 - [Checkout to new branch]()
+
+---
+
+### VIM
+- [Close a file]()
+- [Insert mode]()
+- [Save a file]()
+- [Install a VIM plugin]()
+- [Enable spellchecker]()
+
+---
 
 ### License
 This project is released under the [MIT License](http://www.opensource.org/licenses/MIT).
