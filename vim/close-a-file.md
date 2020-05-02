@@ -1,0 +1,7 @@
+# Quit VIM
+
+One of the most infamous issues that new users of VIM faces when using it for the first time. Press `:q` to quit VIM
+
+If you've worked on a file and want to save and quit? Just type `:wq!`.
+
+I hope that solved your quitting issue with VIM.

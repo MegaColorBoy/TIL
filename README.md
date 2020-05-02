@@ -6,16 +6,29 @@ This is a collection of short articles about things that I have learned. These a
 I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Categories
+<!-- - [CSS](#css) -->
 - [Git](#git)
+- [Linux](#linux)
 - [Terminal](#terminal)
 - [VIM](#vim)
 
 ---
 
+<!-- ### CSS
+- [Create a grid-based layout](css/grid-based-layout.md) -->
+<!-- --- -->
+
 ### Git
 - [Set up a new repository](git/set-up-repo.md)
 - [Checkout to new branch](git/checkout-branch.md)
 - [Check branch status](git/check-status.md)
+
+---
+
+### Linux
+- [View battery status](linux/view-battery-status.md)
+- [Check your Ubuntu version](linux/check-ubuntu-version.md)
+- [View hardware information](linux/view-hardware-info.md)
 
 ---
 
@@ -32,6 +45,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### VIM
 - [Insert mode](vim/insert-mode.md)
 - [Save a file](vim/save-file.md)
+- [Clear all lines](vim/clear-all-lines.md)
 - [Close a file](vim/close-file.md)
 
 ---
