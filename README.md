@@ -44,8 +44,8 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### VIM
 - [Clear all lines](vim/clear-all-lines.md)
-- [Close a file](vim/close-file.md)
 - [Insert mode](vim/insert-mode.md)
+- [Quit VIM](vim/quit-vim.md)
 - [Save a file](vim/save-a-file.md)
 
 ---
