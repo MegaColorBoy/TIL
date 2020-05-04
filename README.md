@@ -8,7 +8,12 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Categories
 <!-- - [CSS](#css) -->
 - [Git](#git)
+- [JavaScript](#javascript)
+- [Laravel](#laravel)
 - [Linux](#linux)
+- [MySQL](#mysql)
+- [PHP](#php)
+- [Sublime Text](#sublime-text)
 - [Terminal](#terminal)
 - [VIM](#vim)
 
@@ -25,10 +30,53 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ---
 
+### JavaScript
+- Cloning elements
+- Custom word counter using jQuery Validator
+- Event handling in dynamic elements
+- Iterate through multiple elements
+
+---
+
+### Laravel
+- Create symbolic storage link
+- Export using excel
+- Export using zip
+- Fetch data via Paginator
+- Fetch unique meta keys
+- Split collection into chunks
+
+---
+
 ### Linux
 - [Check your Ubuntu version](linux/check-ubuntu-version.md)
 - [View battery status](linux/view-battery-status.md)
 - [View hardware information](linux/view-hardware-info.md)
+
+---
+
+### MySQL
+- Connect tables using JOIN statements
+- Filter between two dates
+- Using CASE statements
+
+---
+
+### PHP
+- Check if element is empty
+- Compress and resize images using ImageMagick
+- Explode and Implode string
+- Filter an array
+- Sort an associative array by keys
+- Split an array into chunks
+
+---
+
+### Sublime Text
+- Compare using diff
+- Duplicate lines
+- Split screen
+- Use multiple cursors
 
 ---
 
